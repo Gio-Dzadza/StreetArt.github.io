@@ -1,5 +1,5 @@
 # Markup of the streetart site using:
-- Css
+- Css - Bootstrap
 - HTML
 
 
